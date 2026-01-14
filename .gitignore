@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 credentials/credentials.json
+credentials/credentials.json
